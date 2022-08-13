@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Achmad Ferdiansyah, just call me Ferdi.
+### Hi there 👋 My name is Achmad Ferdiansyah, just call me Ferdi.
 
 - I'm currently study at Institute Technology of Ten Nopember majoring Informatics Engineering.
 - I'm currently learning about web development dominant in backend with javascript as my primary languange.
