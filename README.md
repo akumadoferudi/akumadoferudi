@@ -1,9 +1,9 @@
 ## Hi there 👋 Achmad Ferdiansyah's here !!!
 ### Just call me Ferdi.
 
-- I'm currently study at Ten Nopember of Institute Technology majoring Informatics Engineering.
-- Still learning about web development dominant in backend with javascript and php as my primary backend language.
-- Soon, I will learn deeper about backend, frontend, cloud computing, and also learn about cyber security too.
+- A final year student at Institut Teknologi Sepuluh Nopember majoring in Informatics Engineering.
+- Focusing on software development.
+- Willing to expand my wings to learn cloud computing, mobile development, cyber security, and IT support.
 
 You can reach me at:
 - [instagram](https://www.instagram.com/achferdi/)
